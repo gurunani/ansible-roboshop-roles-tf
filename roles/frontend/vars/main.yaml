@@ -1,0 +1,5 @@
+CATALOGUE_HOST: catalogue.backend-{{ env }}.gurulabs.xyz
+USER_HOST: user.backend-{{ env }}.gurulabs.xyz
+CART_HOST: cart.backend-{{ env }}.gurulabs.xyz
+SHIPPING_HOST: shipping.backend-{{ env }}.gurulabs.xyz
+PAYMENT_HOST: payment.backend-{{ env }}.gurulabs.xyz

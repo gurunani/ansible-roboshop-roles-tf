@@ -1,0 +1,2 @@
+REDIS_HOST: redis-{{ env }}.gurulabs.xyz
+MONGODB_HOST: mongodb-{{ env }}.gurulabs.xyz

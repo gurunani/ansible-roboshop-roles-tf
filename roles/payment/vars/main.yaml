@@ -1,0 +1,5 @@
+CART_HOST: cart-{{ env }}.gurulabs.xyz
+USER_HOST: user-{{ env }}.gurulabs.xyz
+RABBITMQ_HOST: rabbitmq-{{ env }}.gurulabs.xyz
+RABBITMQ_USER: roboshop
+RABBITMQ_PASSWORD: roboshop123
